@@ -267,14 +267,14 @@ PRODUCT_COPY_FILES += \
     vendor/wingtech/wt88047/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
 
 PRODUCT_PACKAGES += \
-    ims \
+#    ims \
     imscmlibrary \
     libloc_api_v02 \
     libloc_ds_api \
     libmm-abl \
     libtime_genoff \
     shutdownlistener \
-    TimeService \
+#    TimeService \
     qcrilmsgtunnel \
     qcnvitems \
     qcrilhook
